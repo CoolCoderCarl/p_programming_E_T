@@ -1,3 +1,4 @@
-test_2 = input()
+current_year = int(input("Input current year: "))
+birth_year = int(input("Input birth year: "))
 
-print(test_2)
+print(current_year - birth_year)
