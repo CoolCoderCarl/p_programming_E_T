@@ -1,4 +1,9 @@
 def calculate_sum_odd_digits(digit_count: int) -> int:
+    """
+    Calculate sum of odd digits in range and return
+    :param digit_count:
+    :return:
+    """
     i = 0
     for i in range(digit_count):
         if i % 2 == 0:

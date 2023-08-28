@@ -1,3 +1,4 @@
+# Ask for digit to calculate remains
 num = int(input("Input digit: "))
 
 if num % 3 == 0:

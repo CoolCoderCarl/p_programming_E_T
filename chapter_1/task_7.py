@@ -1,3 +1,4 @@
+# Ask for digit for range limit to calculate factorial
 num = int(input("Please input positive num: "))
 
 fac = 1
