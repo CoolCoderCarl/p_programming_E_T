@@ -14,5 +14,5 @@ def find_second_max_dig(list_to_find: list) -> int:
     return list(sorted(list_to_find))[-2]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     find_second_max_dig(task_list_9)
