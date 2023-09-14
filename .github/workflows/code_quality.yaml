@@ -2,7 +2,7 @@ name: Code Quality
 
 on:
   push:
-    branches: [ feature/* ]
+    branches: [ chapter_* ]
 
 jobs:
   code_quality:
