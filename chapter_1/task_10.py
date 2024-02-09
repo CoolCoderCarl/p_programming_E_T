@@ -13,5 +13,5 @@ def calculate_sum_odd_digits(digit_count: int) -> int:
     return i
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print(calculate_sum_odd_digits(10))
